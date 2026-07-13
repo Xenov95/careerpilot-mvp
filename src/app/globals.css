@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+:root {
+  color: #0f172a;
+  background: #f8fafc;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+}
